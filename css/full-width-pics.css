@@ -1,0 +1,63 @@
+
+
+.img-intro {
+	margin: 0 auto;
+    height: 300px;
+    width: 220px;
+    border-radius: 20%;
+}
+
+.border-red{
+    border-radius: 10%;
+}
+
+.img-center {
+    margin: 0 auto;
+}
+
+
+/*==========================================
+   SOCIAL SECTIONS
+    =====================================================*/
+#social {
+      padding:30px;
+    background-color:rgba(182, 182, 182, 0.97);
+    margin-top:100px;
+}
+ #social h1 {
+        color:#fff;
+        font-size:60px;
+        font-weight:900;
+        line-height:60px;
+        padding-bottom:30px;
+        border:0px;
+    }
+
+hr.star-primary {
+  border-color: #2C3E50;
+}
+
+.color-facebook {
+    color:#3B5998;
+}
+.color-twitter {
+     color:#00aced;
+}
+.color-google-plus {
+     color:#dd4b39;
+}
+.color-linkedin {
+     color:#007bb6;
+}
+.color-pinterest {
+     color:#cb2027;
+}
+
+.color-blanck {
+     color:#fff;
+}
+
+li{
+
+    color: #fff;
+}
