@@ -2,8 +2,7 @@
 
 .img-intro {
 	margin: 0 auto;
-    height: 300px;
-    width: 220px;
+    width: 170px;
     border-radius: 20%;
 }
 
@@ -15,7 +14,11 @@
     margin: 0 auto;
 }
 
-
+.project-context{
+    display: flex;
+    justify-content: space-around;
+}
+  
 /*==========================================
    SOCIAL SECTIONS
     =====================================================*/

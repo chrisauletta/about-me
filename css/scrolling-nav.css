@@ -36,7 +36,7 @@ of those sections to manage the look and feel of the site. */
 .intro-section {
     height: auto;
     padding-top: 150px;
-    text-align: center;
+    /* text-align: center; */
     background: #0085B2;
 }
 
